@@ -10,9 +10,9 @@
 
  <h2>Sobre mi 😃</h2>
 <p align="left">
-🎓 Desenvolupador Aplicacions Multiplataforma
+🎓 Desarollador Aplicaciones Multiplataforma
 
-💻 Titulació en Sistema Microinformatics i Xarxes i en B2 Anglès
+💻 Titulación en Sistemas Microinformaticos y Redes y en B2 Inglés.
 
 📫 Contacto: **rlopezco24@gmail.com**
 <!--Intro end-->
