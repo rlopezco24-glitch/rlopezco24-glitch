@@ -1,4 +1,4 @@
-# Hola 👋, Soy Ruben
+# Hola 👋, Soy Rubén López
 
 <p align="left">
   
