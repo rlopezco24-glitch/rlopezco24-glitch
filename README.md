@@ -32,3 +32,10 @@
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
+<div class="proyecto-Conecta4">
+    <h3>Conecta4</h3>
+    <p>Es un proyecto del Juego de Conecta 4 que juega contra la IA</p>
+    <a href="https://gitlab.com/projectos-dam/prj1_grp5/-/tree/844dbd0443ddaaa4bb84c5c98fc5ac0886f044f3/" target="_blank">
+        Ver en GitLab 🚀
+    </a>
+</div>
