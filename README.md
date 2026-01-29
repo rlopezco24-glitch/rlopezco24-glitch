@@ -45,5 +45,12 @@
     <p>Es un proyecto de una empresa de alquiler de coches.</p>
     <a href="https://gitlab.com/grup2_vehicles/projecte2grup2/-/tree/493c8f02dfb789904413219219e3e75d16341e4b/" target="_blank">
         Ver en GitLab 🚀
+    
+      
+  ### 📄 Documentación
+
+- 📘 [Documentació](Documentació_tecnica.pdf)
+- 📗 [Disseny](disseny_Projecte_2_25_26.pdf)
+- 📕 [Manual](ManualUsuari_Grup2.pdf)
     </a>
 </div>
