@@ -24,7 +24,8 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,css,html,js,mysql,gitlab,github,mongodb,vscode" />
+   <img src="https://skillicons.dev/icons?i=java,css,html,js,mysql,gitlab,github,mongodb,vscode,hibernate" />
+
   </a>
 </p>
 <br>
